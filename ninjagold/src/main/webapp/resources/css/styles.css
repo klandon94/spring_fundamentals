@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+#container{
+        padding:25px;
+    }
+    #goldmines{
+        margin-top:100px;
+        display:flex;
+        justify-content: space-between;
+    }
+    .places{
+        border:2px solid black;
+        height:250px;
+        width:250px;
+    }
+    .places h1,h4{
+        text-align:center;
+    }
+    #activities{
+        margin-top:80px;
+    }
+    textarea{
+        width:100%;
+    }
+    #textbox{
+        overflow:scroll;
+        border:1px solid black;
+        height:250px;
+    }
+    .green{
+        color:green;
+    }
+    
+    .red{
+        color:red;
+    }
